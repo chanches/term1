@@ -6,8 +6,8 @@
 <title>Ruby Terminal Online</title>
 <meta name="Description" content="Ruby Terminal Online - Try and experience the best cloud computing where you can edit, compile, execute and share your varities of projects with the help of simple clicks. You can save your projects at Dropbox, GitHub, GoogleDrive and OneDrive to be accessed anywhere and any time. We support almost all the popular programming languages including Java, JSP, Cold Fusion, C, C++, Hadoop, PL/SQL, SQL, NumPy, SymPy, Octave, CentOS, iPython, Pascal, Fortran, PHP, Perl, Ruby, Python and many more other programming languages using your browsers, iPhones, iPads or any other online device like smart TV." />
 <meta name="Keywords" content="Ruby Terminal Online, compile, execute, programs, online, linux, experience, cloud, computing, source code, dropbox, googledrive, onedrive, programming, java, jsp, cold fusion, c, c++, pascal, fortran, php, perl, ruby, python, browsers, iphones, ipads, smart tv."/>
-<base href="http://www.tutorialspoint.com/" />
-<link rel="shortcut icon" href="/codingground/images/favicon.ico" type="image/x-icon" />
+<base href="http://www.terminal.890m.com/" />
+<link rel="shortcut icon" href="http://i.imgur.com/0bSkd6d.png" type="image/x-icon" />
 <script src="/codingground/scripts/jquery.min.js"></script>
 <script src="/codingground/scripts/jquery.easyui.min.js"></script>
 <script src="/codingground/ace/src-min/ace.js" type="text/javascript" charset="utf-8"></script>
