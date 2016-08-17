@@ -8,16 +8,16 @@
 <meta name="Keywords" content="Ruby Terminal Online, compile, execute, programs, online, linux, experience, cloud, computing, source code, dropbox, googledrive, onedrive, programming, java, jsp, cold fusion, c, c++, pascal, fortran, php, perl, ruby, python, browsers, iphones, ipads, smart tv."/>
 <base href="http://www.terminal.890m.com/" />
 <link rel="shortcut icon" href="http://i.imgur.com/0bSkd6d.png" type="image/x-icon" />
-<script src="/codingground/scripts/jquery.min.js"></script>
-<script src="/codingground/scripts/jquery.easyui.min.js"></script>
-<script src="/codingground/ace/src-min/ace.js" type="text/javascript" charset="utf-8"></script>
-<script src="/codingground/scripts/spectrum.js"></script>
-<link rel="stylesheet" type="text/css" href="/codingground/themes/gray/easyui.css">
-<link rel="stylesheet" type="text/css" href="/codingground/themes/icon.css">
-<link rel="stylesheet" type="text/css" href="/codingground/style/spectrum.css">
-<link rel="stylesheet" type="text/css" href="/codingground/style/cg.css">
-<script src="/codingground/node_modules/socket.io/node_modules/socket.io-client/socket.io.js"></script>
-<script src="/codingground/node_modules/term.js/src/term.js"></script>
+<script src="https://rawgit.com/chanches/term1/master/scripts/jquery.min.js"></script>
+<script src="https://rawgit.com/chanches/term1/master/scripts/jquery.easyui.min.js"></script>
+<script src="https://rawgit.com/chanches/term1/master/ace/src-min/ace.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://rawgit.com/chanches/term1/master/scripts/spectrum.js"></script>
+<link rel="stylesheet" type="text/css" href="https://rawgit.com/chanches/term1/master/themes/gray/easyui.css">
+<link rel="stylesheet" type="text/css" href="https://rawgit.com/chanches/term1/master/themes/icon.css">
+<link rel="stylesheet" type="text/css" href="https://rawgit.com/chanches/term1/master/style/spectrum.css">
+<link rel="stylesheet" type="text/css" href="https://rawgit.com/chanches/term1/master/style/cg.css">
+<script src="https://rawgit.com/chanches/term1/master/node_modules/socket.io/node_modules/socket.io-client/socket.io.js"></script>
+<script src="https://rawgit.com/chanches/term1/master/node_modules/term.js/src/term.js"></script>
 <style>
 .main-title{
     border-left: 1px solid #ccc;
@@ -45,11 +45,11 @@
 <script type="text/javascript">
 var port = "9474";
 var sessionid = "1471441798-5381";
-var HOME="http://codingground1.tutorialspoint.com";
+var HOME="http://www.terminal.890m.com";
 var terminal="1";
 var server="1";
 </script>
-<script src="codingground/scripts/cg.js"></script>
+<script src="https://rawgit.com/chanches/term1/master/scripts/cg.js"></script>
 <script src="http://www.google-analytics.com/urchin.js">
 </script>
 <script type="text/javascript">
@@ -78,7 +78,7 @@ urchinTracker();
             });
             window.onbeforeunload = null;
             $("#loading").css({"visibility":"hidden"});
-            window.location = "http://www.tutorialspoint.com/codingground.htm";
+            window.location = "http://www.facebook.com/falinf0";
          }
       }).window({  width:400 }); 
    }
